@@ -1,4 +1,4 @@
-Photograph
+Photograph.
 ===============================
 
 #### 1. Simple design.
